@@ -82,11 +82,24 @@ El recorrido completo del curso, de lo más básico a lo más complejo.
 
 ---
 
+## Certificaciones
+
+| Certificación | Emisor | Detalle |
+| --- | --- | --- |
+| Business Intelligence con Power BI avanzado integrado con Python y R | Sociedad Ecuatoriana de Estadística | 20 horas · abril–mayo 2026 |
+| Operador del Sistema Nacional de Contratación Pública (SNCP) | SERCOP | marzo 2026 · vigencia 2 años |
+| Metodologías de Investigación con Inteligencia Artificial | Progressio América Latina | 120 horas · marzo 2026 |
+| I Congreso Internacional de Ciberseguridad e Inteligencia Artificial (CIBERAI 2025) | ESPOCH | junio 2025 |
+| Suficiencia en Inglés — Nivel B2 (MCER) | Centro de Idiomas, ESPOCH | 720 horas · febrero 2022 |
+| Beca Santander \| Inglés Online — British Council | British Council | en curso |
+
+---
+
 ## About
 
 Data Science and Artificial Intelligence engineering student at Universidad Nacional de Chimborazo, Ecuador, working at the Ecuadorian Statistical Society (SEE). This profile collects my coursework organised by subject and by complexity — data structures and algorithms in Python and C++, numerical analysis, and applied statistics. Every repository documents the problem it solves, the structures and algorithms it applies, and how to run it. Repository documentation is written in Spanish; I am comfortable working in English.
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-guerra-702786380)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulguerravicuna)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gpaul4342@gmail.com)
