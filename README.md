@@ -3,19 +3,27 @@
 **Ingeniería en Ciencia de Datos e Inteligencia Artificial — Universidad Nacional de Chimborazo (UNACH)**
 Riobamba, Ecuador · Carrera de 8 semestres · Cursando el tercer semestre
 
-Trabajo en la **Sociedad Ecuatoriana de Estadística (SEE)**, apoyando la formación y difusión de estadística aplicada. Me interesa el punto donde la estadística y la programación se encuentran: estructuras de datos, algoritmos sobre grafos, análisis numérico y visualización de resultados.
+Trabajo como **Analista de Datos en la Sociedad Ecuatoriana de Estadística (SEE)**, donde convierto información dispersa en decisiones de portafolio, precio y operación. Me interesa el punto donde la estadística y la programación se encuentran: estructuras de datos, algoritmos sobre grafos, análisis numérico y visualización de resultados.
 
-Este perfil reúne mi trabajo académico organizado por materia y por nivel de complejidad. Cada repositorio tiene su propio README con el problema que resuelve, las estructuras y algoritmos aplicados, y las instrucciones para ejecutarlo.
+Los repositorios de abajo reúnen mi trabajo académico, organizado por materia y por nivel de complejidad. Cada uno tiene su propio README con el problema que resuelve, las estructuras y algoritmos aplicados, y las instrucciones para ejecutarlo.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-2C5BB4?style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
+
+## Trabajo profesional — Sociedad Ecuatoriana de Estadística
+
+| Entregable | Qué resuelve |
+| --- | --- |
+| **Buscador de Carreras SEE × Pearson** ([en producción](https://see-ec.org/wp-content/uploads/CarrerasUniversitarias_SEE_Pearson.html)) | 1.808 programas académicos públicos de 90 instituciones, 467 carreras, 17 campos de conocimiento y 24 provincias, en una aplicación web de archivo único con filtros combinados, comparador de carreras y simulador de puntaje de admisión. Sin dependencias externas. |
+| **Benchmarking del mercado ecuatoriano de formación en datos** | 95 cursos de la competencia perfilados en 8 áreas temáticas frente a 26 variables cada uno. El análisis de brechas resultante es el que la Dirección Ejecutiva usó para definir el portafolio de formación 2026. |
 
 ---
 
@@ -27,7 +35,7 @@ Proyecto integrador de Estructuras de Datos. Gestiona el inventario de paquetes 
 
 Reúne casi todo el temario en un solo sistema: lista doblemente enlazada para el inventario, cola FIFO para los pedidos pendientes, grafo ponderado con Dijkstra para la ruta más corta (con el costo ajustado según el estado real de cada vía), flujo máximo por Edmonds-Karp para la capacidad de transporte, y búsqueda binaria sobre el inventario previamente ordenado. Incluye una comparación empírica entre Bubble Sort y Quick Sort, e indicadores de desempeño calculados con NumPy. Interfaz de escritorio en Tkinter con siete pestañas.
 
-### [Árboles de búsqueda aplicados a un motor antifraude](https://github.com/PaulGuerra07/arbol-bst-recomendacion-musical)
+### [Árboles de búsqueda: recomendador musical y comparación BST / AVL / Rojo-Negro](https://github.com/PaulGuerra07/arbol-bst-recomendacion-musical)
 
 Dos trabajos sobre árboles. El primero implementa un árbol binario de búsqueda para un motor de recomendación musical, construido con nodos y punteros propios, con recomendación por duración y poda recursiva.
 
@@ -97,7 +105,7 @@ El recorrido completo del curso, de lo más básico a lo más complejo.
 
 ## About
 
-Data Science and Artificial Intelligence engineering student at Universidad Nacional de Chimborazo, Ecuador, working at the Ecuadorian Statistical Society (SEE). This profile collects my coursework organised by subject and by complexity — data structures and algorithms in Python and C++, numerical analysis, and applied statistics. Every repository documents the problem it solves, the structures and algorithms it applies, and how to run it. Repository documentation is written in Spanish; I am comfortable working in English.
+Data Science and Artificial Intelligence student at Universidad Nacional de Chimborazo and Data Analyst at the Ecuadorian Statistical Society (SEE), where I turn scattered information into decisions about portfolio, pricing and operations. The repositories here collect my academic work — data structures and algorithms in Python and C++, numerical analysis and applied statistics — organised by subject and complexity. Every repository documents the problem it solves, the structures and algorithms it applies, and how to run it. Repository documentation is written in Spanish; I am comfortable working in English.
 
 ## Contacto
 
